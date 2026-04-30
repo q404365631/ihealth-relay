@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  # main への push と main 宛 PR で常に走らせる. 加えて feature/* / fix/* /
+  # chore/* / refactor/* ブランチへの push でも自分の作業中に CI を確認できる
+  # ように自動トリガする (外部 contributor の fork からの PR は pull_request
+  # で拾う).
+  push:
+    branches:
+      - main
+      - "feature/**"
+      - "fix/**"
+      - "chore/**"
+      - "refactor/**"
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Tests (Python ${{ matrix.python-version }} on ${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      # 1 つの組み合わせで失敗しても他のセルを止めない (full surface 把握).
+      fail-fast: false
+      matrix:
+        # macOS は本番ターゲット (launchd / iCloud Drive). Linux も load しておく
+        # と OSS contributor 環境で動作確認できる. Python 3.9 は本番 (= macOS 標準
+        # /usr/bin/python3). 3.10/3.11/3.12 は forward-compat 確認用.
+        #
+        # ``macos-latest`` は arm64 (macos-15) で、actions/runner-images から
+        # Python < 3.11 が削除されている. 該当セルは exclude. 旧バージョンは
+        # Linux 側で確認する.
+        os: [macos-latest, ubuntu-latest]
+        python-version: ["3.9", "3.10", "3.11", "3.12"]
+        exclude:
+          - os: macos-latest
+            python-version: "3.9"
+          - os: macos-latest
+            python-version: "3.10"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Show Python version
+        run: python --version
+
+      - name: Run unittest discover
+        env:
+          # src layout を sys.path に通す (project は requirements.txt なし).
+          PYTHONPATH: src
+        run: python -m unittest discover tests

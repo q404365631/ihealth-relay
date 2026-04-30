@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ihealth-relay LaunchAgent テンプレート.
+  `bin/install-launchd.sh` が __PROJECT_ROOT__ / __HOME__ を実パスに置換してから
+  ~/Library/LaunchAgents/ 配下にコピー → launchctl load する。
+
+  設計ポリシー:
+  - launchd 自身が触るパス (WorkingDirectory / StandardOutPath / StandardErrorPath) は
+    すべて $HOME 配下に固定する。リポジトリ本体が外部ボリューム /Volumes/... に置かれて
+    いると、launchd が外部ボリュームへ chdir() / open() する段階で TCC に阻まれて
+    EX_CONFIG=78 のまま起動前に死ぬため (実機検証済 2026-04-26)。子プロセス
+    (bin/ihealth-run → /usr/bin/python3) が起動した後は通常のユーザー権限で外部
+    ボリュームに自由にアクセスできる (python3 へのフルディスクアクセス付与は別途必要)。
+  - ProgramArguments は bin/ihealth-run ラッパー経由。ラッパー側で cd / PYTHONPATH /
+    LANG をセットアップするので、plist の EnvironmentVariables は不要。
+  - StartCalendarInterval で毎朝 07:00 起動 (cron の直接的代替)
+  - RunAtLoad=false: install 直後に即発火させない (運用開始は翌朝から)
+  - stdout / stderr は $HOME/Library/Logs/ihealth-relay/launchd.log に集約。
+    アプリ側 TimedRotatingFileHandler が出す logs/run.log (プロジェクトルート配下) と
+    あわせて二段構え: 起動失敗 / 環境異常を launchd.log、通常運用ログを run.log。
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.ihealthrelay.daemon</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>__PROJECT_ROOT__/bin/ihealth-run</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__HOME__</string>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>__HOME__/Library/Logs/ihealth-relay/launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>__HOME__/Library/Logs/ihealth-relay/launchd.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!--
+      ProcessType: CPU / I/O の resource limits 分類。1 日 1 回の短時間バッチで
+      ユーザーと直接やり取りしないので Background を選択し、システム負荷の高い
+      時間帯では throttling 対象として CPU 優先度を下げて他アプリを優先させる.
+      (StartCalendarInterval の「sleep 中に missed した起動は wake 後に coalesce
+      して実行する」挙動は ProcessType に依存せず、plist ドキュメントの仕様どおり動く)
+    -->
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>

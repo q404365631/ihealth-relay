@@ -1,0 +1,19 @@
+{
+  "date": 798476400,
+  "metric": "Body Fat Percentage",
+  "data": [
+    {
+      "end": 798503057,
+      "qty": 19.8,
+      "metric": "Body Fat Percentage",
+      "unit": "%",
+      "sources": [
+        {
+          "identifier": "com.example.scale",
+          "name": "Sample Scale"
+        }
+      ],
+      "start": 798503057
+    }
+  ]
+}

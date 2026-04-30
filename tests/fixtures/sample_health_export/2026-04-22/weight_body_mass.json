@@ -1,0 +1,45 @@
+{
+  "date": 798476400,
+  "metric": "Weight & Body Mass",
+  "data": [
+    {
+      "end": 798503057,
+      "qty": 65.55,
+      "metric": "Weight & Body Mass",
+      "unit": "kg",
+      "sources": [
+        {
+          "identifier": "com.example.scale",
+          "name": "Sample Scale"
+        }
+      ],
+      "start": 798503057
+    },
+    {
+      "end": 798503057,
+      "qty": 144.51301286218725,
+      "metric": "Weight & Body Mass",
+      "unit": "lb",
+      "sources": [
+        {
+          "identifier": "com.example.scale",
+          "name": "Sample Scale"
+        }
+      ],
+      "start": 798503057
+    },
+    {
+      "end": 798503057,
+      "qty": 10.322358061584804,
+      "metric": "Weight & Body Mass",
+      "unit": "st",
+      "sources": [
+        {
+          "identifier": "com.example.scale",
+          "name": "Sample Scale"
+        }
+      ],
+      "start": 798503057
+    }
+  ]
+}

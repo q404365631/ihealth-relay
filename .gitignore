@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# 環境変数 (秘密情報を含むので必ず無視)
+.env
+.env.local
+.env.*.local
+.env.bak*
+
+# ローカル設定 (config.example.toml をコピーして編集する個人ファイル)
+config.toml
+
+# 受信した Health Data の JSON アーカイブ (個人実健康データなので OSS リポジトリでは追跡しない)
+data/health/*
+data/health/*/
+!data/health/.gitkeep
+
+# 内部実装計画 (個人開発フェーズの歴史記録、OSS 利用者には価値なし)
+docs/plans/
+
+# ログ (プロジェクト内 logs/ に蓄積)
+logs/*
+!logs/.gitkeep
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code のローカル設定・作業領域 (個人開発フローのため OSS リポジトリでは追跡しない)
+.claude/
+
+# Serena / OpenAI Codex CLI のローカル作業領域 (cache / memories / project ローカル設定)
+.serena/

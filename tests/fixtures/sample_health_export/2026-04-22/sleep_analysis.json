@@ -1,0 +1,438 @@
+{
+  "metric": "Sleep Analysis",
+  "data": [
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.example.sleeptracker",
+          "name": "Sample Sleep Tracker"
+        }
+      ],
+      "totalSleep": 0,
+      "inBed": 6.733333333333333,
+      "end": 798490740,
+      "meta": {},
+      "unit": "hr",
+      "start": 798466500
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.example.sleeptracker",
+          "name": "Sample Sleep Tracker"
+        }
+      ],
+      "totalSleep": 0.7833333333333333,
+      "asleep": 0.7833333333333333,
+      "end": 798477720,
+      "unit": "hr",
+      "start": 798474900
+    },
+    {
+      "core": 0.5769298352797826,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.5769298352797826,
+      "end": 798477058.0140636,
+      "meta": {},
+      "unit": "hr",
+      "start": 798474981.0666566
+    },
+    {
+      "deep": 0.18394886083073086,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.18394886083073086,
+      "end": 798477720.2299626,
+      "meta": {},
+      "unit": "hr",
+      "start": 798477058.0140636
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.008361307349469927,
+      "end": 798477750.330669,
+      "meta": {},
+      "unit": "hr",
+      "start": 798477720.2299626
+    },
+    {
+      "core": 0.058529028197129566,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.058529028197129566,
+      "end": 798477961.0351707,
+      "meta": {},
+      "unit": "hr",
+      "start": 798477750.3306692
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.025083790289031134,
+      "end": 798478051.3368157,
+      "meta": {},
+      "unit": "hr",
+      "start": 798477961.0351707
+    },
+    {
+      "core": 0.07525100694762336,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.07525100694762336,
+      "end": 798478322.2404406,
+      "meta": {},
+      "unit": "hr",
+      "start": 798478051.3368156
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.08361178527275721,
+      "rem": 0.08361178527275721,
+      "end": 798478623.2428676,
+      "meta": {},
+      "unit": "hr",
+      "start": 798478322.2404406
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.01672232528527578,
+      "end": 798478683.4432386,
+      "meta": {},
+      "unit": "hr",
+      "start": 798478623.2428676
+    },
+    {
+      "core": 0.3177304902672768,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.3177304902672768,
+      "end": 798479827.2730036,
+      "meta": {},
+      "unit": "hr",
+      "start": 798478683.4432386
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.example.sleeptracker",
+          "name": "Sample Sleep Tracker"
+        }
+      ],
+      "totalSleep": 3.25,
+      "asleep": 3.25,
+      "end": 798490740,
+      "unit": "hr",
+      "start": 798479040
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.058529512484868366,
+      "end": 798480037.9792485,
+      "meta": {},
+      "unit": "hr",
+      "start": 798479827.2730036
+    },
+    {
+      "core": 1.204022046956751,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 1.204022046956751,
+      "end": 798484372.4586177,
+      "meta": {},
+      "unit": "hr",
+      "start": 798480037.9792486
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.34280714084704716,
+      "rem": 0.34280714084704716,
+      "end": 798485606.5643246,
+      "meta": {},
+      "unit": "hr",
+      "start": 798484372.4586176
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.12541758166419134,
+      "end": 798486058.0676186,
+      "meta": {},
+      "unit": "hr",
+      "start": 798485606.5643246
+    },
+    {
+      "core": 0.8695479158229298,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.8695479158229298,
+      "end": 798489188.4401156,
+      "meta": {},
+      "unit": "hr",
+      "start": 798486058.0676186
+    },
+    {
+      "deep": 0.23410707430707084,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.23410707430707084,
+      "end": 798490031.2255831,
+      "meta": {},
+      "unit": "hr",
+      "start": 798489188.4401156
+    },
+    {
+      "core": 0.07524888737334146,
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.07524888737334146,
+      "end": 798490302.1215776,
+      "meta": {},
+      "unit": "hr",
+      "start": 798490031.2255831
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.1254147904117902,
+      "rem": 0.1254147904117902,
+      "end": 798490753.6148231,
+      "meta": {},
+      "unit": "hr",
+      "start": 798490302.1215776
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.033445936938126884,
+      "asleep": 0.033445936938126884,
+      "end": 798527279.9662585,
+      "meta": {},
+      "unit": "hr",
+      "start": 798527159.5608855
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.12542161722977957,
+      "end": 798527731.4840806,
+      "meta": {},
+      "unit": "hr",
+      "start": 798527279.9662585
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.example.sleeptracker",
+          "name": "Sample Sleep Tracker"
+        }
+      ],
+      "totalSleep": 0,
+      "inBed": 1.5666666666666667,
+      "end": 798532980,
+      "meta": {},
+      "unit": "hr",
+      "start": 798527340
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.example.sleeptracker",
+          "name": "Sample Sleep Tracker"
+        }
+      ],
+      "totalSleep": 1.5666666666666667,
+      "asleep": 1.5666666666666667,
+      "end": 798532980,
+      "unit": "hr",
+      "start": 798527340
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.6438251448671023,
+      "asleep": 0.6438251448671023,
+      "end": 798530049.2546021,
+      "meta": {},
+      "unit": "hr",
+      "start": 798527731.4840806
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.06689157807164722,
+      "end": 798530290.0642831,
+      "meta": {},
+      "unit": "hr",
+      "start": 798530049.2546021
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.1170602152744929,
+      "asleep": 0.1170602152744929,
+      "end": 798530711.4810581,
+      "meta": {},
+      "unit": "hr",
+      "start": 798530290.0642831
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0,
+      "awake": 0.025084319313367208,
+      "end": 798530801.7846076,
+      "meta": {},
+      "unit": "hr",
+      "start": 798530711.4810581
+    },
+    {
+      "metric": "Sleep Analysis",
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "totalSleep": 0.3010111016697354,
+      "asleep": 0.3010111016697354,
+      "end": 798531885.4245735,
+      "meta": {},
+      "unit": "hr",
+      "start": 798530801.7846075
+    }
+  ],
+  "date": 798562799.000001
+}

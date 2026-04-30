@@ -1,0 +1,32 @@
+{
+  "date": 798562800,
+  "metric": "Mindful Minutes",
+  "data": [
+    {
+      "metric": "Mindful Minutes",
+      "sources": [
+        {
+          "name": "Sample Mindfulness Device",
+          "identifier": "com.example.mindfulness"
+        }
+      ],
+      "start": 798611230,
+      "end": 798612430,
+      "qty": 20,
+      "unit": "min"
+    },
+    {
+      "metric": "Mindful Minutes",
+      "sources": [
+        {
+          "name": "Sample Watch",
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000"
+        }
+      ],
+      "start": 798611281.079209,
+      "end": 798611461.079209,
+      "qty": 3,
+      "unit": "min"
+    }
+  ]
+}

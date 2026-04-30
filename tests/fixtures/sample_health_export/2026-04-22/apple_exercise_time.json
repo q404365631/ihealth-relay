@@ -1,0 +1,806 @@
+{
+  "metric": "Apple Exercise Time",
+  "date": 798476400,
+  "data": [
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798499870,
+      "start": 798499869,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798499890,
+      "start": 798499889,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798499910,
+      "start": 798499909,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798499930,
+      "start": 798499929,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798499950,
+      "start": 798499949,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798499969,
+      "start": 798499968,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798499989,
+      "start": 798499988,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500009,
+      "start": 798500008,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500029,
+      "start": 798500028,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500049,
+      "start": 798500048,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500068,
+      "start": 798500067,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500088,
+      "start": 798500087,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500108,
+      "start": 798500107,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500128,
+      "start": 798500127,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500148,
+      "start": 798500147,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500167,
+      "start": 798500166,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500187,
+      "start": 798500186,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500207,
+      "start": 798500206,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500227,
+      "start": 798500226,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500247,
+      "start": 798500246,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500266,
+      "start": 798500265,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500286,
+      "start": 798500285,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500306,
+      "start": 798500305,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500326,
+      "start": 798500325,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500346,
+      "start": 798500345,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500365,
+      "start": 798500364,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500385,
+      "start": 798500384,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500405,
+      "start": 798500404,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500425,
+      "start": 798500424,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500445,
+      "start": 798500444,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500464,
+      "start": 798500463,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500484,
+      "start": 798500483,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500504,
+      "start": 798500503,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500524,
+      "start": 798500523,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500544,
+      "start": 798500543,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500563,
+      "start": 798500562,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500583,
+      "start": 798500582,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500603,
+      "start": 798500602,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500623,
+      "start": 798500622,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500643,
+      "start": 798500642,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500662,
+      "start": 798500661,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500682,
+      "start": 798500681,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500702,
+      "start": 798500701,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500722,
+      "start": 798500721,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500742,
+      "start": 798500741,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500761,
+      "start": 798500760,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500781,
+      "start": 798500780,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500801,
+      "start": 798500800,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500821,
+      "start": 798500820,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500841,
+      "start": 798500840,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500860,
+      "start": 798500859,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666673,
+      "end": 798500880,
+      "start": 798500879,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500900,
+      "start": 798500899,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500920,
+      "start": 798500919,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666673,
+      "end": 798500940,
+      "start": 798500939,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798500959,
+      "start": 798500958,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798500979,
+      "start": 798500978,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666673,
+      "end": 798500999,
+      "start": 798500998,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501019,
+      "start": 798501018,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501039,
+      "start": 798501038,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501058,
+      "start": 798501057,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501078,
+      "start": 798501077,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501098,
+      "start": 798501097,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501118,
+      "start": 798501117,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501138,
+      "start": 798501137,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501157,
+      "start": 798501156,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666673,
+      "end": 798501177,
+      "start": 798501176,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501197,
+      "start": 798501196,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501217,
+      "start": 798501216,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666673,
+      "end": 798501237,
+      "start": 798501236,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501256,
+      "start": 798501255,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501276,
+      "start": 798501275,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666673,
+      "end": 798501296,
+      "start": 798501295,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501316,
+      "start": 798501315,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501336,
+      "start": 798501335,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501355,
+      "start": 798501354,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501375,
+      "start": 798501374,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501395,
+      "start": 798501394,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501415,
+      "start": 798501414,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501435,
+      "start": 798501434,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501454,
+      "start": 798501453,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501474,
+      "start": 798501473,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501494,
+      "start": 798501493,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501514,
+      "start": 798501513,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501534,
+      "start": 798501533,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501553,
+      "start": 798501552,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501573,
+      "start": 798501572,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501593,
+      "start": 798501592,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501613,
+      "start": 798501612,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501633,
+      "start": 798501632,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501652,
+      "start": 798501651,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501672,
+      "start": 798501671,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501692,
+      "start": 798501691,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501712,
+      "start": 798501711,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501732,
+      "start": 798501731,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501751,
+      "start": 798501750,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501771,
+      "start": 798501770,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666666,
+      "end": 798501791,
+      "start": 798501790,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.016666666666666663,
+      "end": 798501811,
+      "start": 798501810,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    },
+    {
+      "sources": [],
+      "qty": 0.01666666666666667,
+      "end": 798501831,
+      "start": 798501830,
+      "metric": "Apple Exercise Time",
+      "unit": "min"
+    }
+  ]
+}

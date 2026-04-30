@@ -1,0 +1,384 @@
+{
+  "metric": "Blood Oxygen Saturation",
+  "date": 798562800,
+  "data": [
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798649042.0691856,
+      "start": 798649042.0691856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 95
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798643043.9441856,
+      "start": 798643043.9441856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 97
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798641243.3191856,
+      "start": 798641243.3191856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 98
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798637412.1941855,
+      "start": 798637412.1941855,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 98
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798635239.0691856,
+      "start": 798635239.0691856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 100
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798633380.9441856,
+      "start": 798633380.9441856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 96
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798631447.8191856,
+      "start": 798631447.8191856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 100
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798629632.1941856,
+      "start": 798629632.1941856,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 99
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798622451.6489049,
+      "start": 798622451.6489049,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 97
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798618931.0239049,
+      "start": 798618931.0239049,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 91
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798611729.869398,
+      "start": 798611729.869398,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 97
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798609929.244398,
+      "start": 798609929.244398,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 99
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798607743.619398,
+      "start": 798607743.619398,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 99
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798604082.3693979,
+      "start": 798604082.3693979,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 96
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798599493.619398,
+      "start": 798599493.619398,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 96
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798596535.494398,
+      "start": 798596535.494398,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 94
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798594684.8693979,
+      "start": 798594684.8693979,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 95
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798591051.119398,
+      "start": 798591051.119398,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 98
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798588550.4943979,
+      "start": 798588550.4943979,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 100
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798584761.7667438,
+      "start": 798584761.7667438,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 100
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798579302.3917438,
+      "start": 798579302.3917438,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 97
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798577501.7667438,
+      "start": 798577501.7667438,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 99
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798572341.1957598,
+      "start": 798572341.1957598,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 97
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798568719.8917438,
+      "start": 798568719.8917438,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 96
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798566919.2667438,
+      "start": 798566919.2667438,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 95
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798565118.6417438,
+      "start": 798565118.6417438,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 97
+    },
+    {
+      "unit": "%",
+      "metric": "Blood Oxygen Saturation",
+      "end": 798563318.0368803,
+      "start": 798563318.0368803,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ],
+      "meta": {},
+      "qty": 96
+    }
+  ]
+}

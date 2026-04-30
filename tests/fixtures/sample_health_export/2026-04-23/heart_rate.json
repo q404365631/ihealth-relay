@@ -1,0 +1,1506 @@
+{
+  "metric": "Heart Rate",
+  "date": 798562800,
+  "data": [
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798563024,
+      "start": 798563023,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798563518,
+      "start": 798563517,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 58,
+      "min": 58,
+      "end": 798564955,
+      "start": 798564954,
+      "max": 58,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798565386,
+      "start": 798565385,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 61,
+      "min": 61,
+      "end": 798566261,
+      "start": 798566260,
+      "max": 61,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798566920,
+      "start": 798566919,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 61.99999999999999,
+      "min": 61.99999999999999,
+      "end": 798567895,
+      "start": 798567894,
+      "max": 61.99999999999999,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 60,
+      "min": 60,
+      "end": 798568644,
+      "start": 798568643,
+      "max": 60,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 60,
+      "min": 60,
+      "end": 798569333,
+      "start": 798569332,
+      "max": 60,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 58,
+      "min": 58,
+      "end": 798570111,
+      "start": 798570110,
+      "max": 58,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 58,
+      "min": 58,
+      "end": 798571125,
+      "start": 798571124,
+      "max": 58,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798572179,
+      "start": 798572178,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 57,
+      "min": 57,
+      "end": 798572811,
+      "start": 798572810,
+      "max": 57,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 54,
+      "min": 54,
+      "end": 798573961,
+      "start": 798573960,
+      "max": 54,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 54,
+      "min": 54,
+      "end": 798574692,
+      "start": 798574691,
+      "max": 54,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 54,
+      "min": 54,
+      "end": 798575541,
+      "start": 798575540,
+      "max": 54,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 60,
+      "min": 60,
+      "end": 798576349,
+      "start": 798576348,
+      "max": 60,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 61.99999999999999,
+      "min": 61.99999999999999,
+      "end": 798577502,
+      "start": 798577501,
+      "max": 61.99999999999999,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798577980,
+      "start": 798577979,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 66,
+      "min": 66,
+      "end": 798578978,
+      "start": 798578977,
+      "max": 66,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 67,
+      "min": 67,
+      "end": 798579531,
+      "start": 798579530,
+      "max": 67,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798580711,
+      "start": 798580710,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798581600,
+      "start": 798581599,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798582417,
+      "start": 798582416,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 60,
+      "min": 60,
+      "end": 798583280,
+      "start": 798583279,
+      "max": 60,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 61,
+      "min": 61,
+      "end": 798583925,
+      "start": 798583924,
+      "max": 61,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798584949,
+      "start": 798584948,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798585907,
+      "start": 798585906,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 73,
+      "min": 73,
+      "end": 798586680,
+      "start": 798586679,
+      "max": 73,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798587535,
+      "start": 798587534,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 74,
+      "min": 74,
+      "end": 798588551,
+      "start": 798588550,
+      "max": 74,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 74,
+      "min": 74,
+      "end": 798589605,
+      "start": 798589604,
+      "max": 74,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 76.43411254882812,
+      "min": 76.43411254882812,
+      "end": 798590197,
+      "start": 798590196,
+      "max": 76.43411254882812,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 67,
+      "min": 67,
+      "end": 798591052,
+      "start": 798591051,
+      "max": 67,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 70,
+      "min": 70,
+      "end": 798591487,
+      "start": 798591486,
+      "max": 70,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 71,
+      "min": 71,
+      "end": 798592408,
+      "start": 798592407,
+      "max": 71,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798593692,
+      "start": 798593691,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 69,
+      "min": 69,
+      "end": 798594599,
+      "start": 798594598,
+      "max": 69,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798595260,
+      "start": 798595259,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 77,
+      "min": 77,
+      "end": 798595986,
+      "start": 798595985,
+      "max": 77,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 85,
+      "min": 85,
+      "end": 798596938,
+      "start": 798596937,
+      "max": 85,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 78.08180236816406,
+      "min": 78.08180236816406,
+      "end": 798597862,
+      "start": 798597861,
+      "max": 78.08180236816406,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 85,
+      "min": 85,
+      "end": 798598484,
+      "start": 798598483,
+      "max": 85,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 85,
+      "min": 85,
+      "end": 798599455,
+      "start": 798599454,
+      "max": 85,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 84,
+      "min": 84,
+      "end": 798600105,
+      "start": 798600104,
+      "max": 84,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 79,
+      "min": 79,
+      "end": 798601033,
+      "start": 798601032,
+      "max": 79,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 80,
+      "min": 80,
+      "end": 798602091,
+      "start": 798602090,
+      "max": 80,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 83,
+      "min": 83,
+      "end": 798602870,
+      "start": 798602869,
+      "max": 83,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 71,
+      "min": 71,
+      "end": 798603993,
+      "start": 798603992,
+      "max": 71,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 75,
+      "min": 75,
+      "end": 798604389,
+      "start": 798604388,
+      "max": 75,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 73,
+      "min": 73,
+      "end": 798605477,
+      "start": 798605476,
+      "max": 73,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 73,
+      "min": 73,
+      "end": 798606125,
+      "start": 798606124,
+      "max": 73,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 69,
+      "min": 69,
+      "end": 798607212,
+      "start": 798607211,
+      "max": 69,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 70,
+      "min": 70,
+      "end": 798607744,
+      "start": 798607743,
+      "max": 70,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 76,
+      "min": 76,
+      "end": 798608512,
+      "start": 798608511,
+      "max": 76,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 73,
+      "min": 73,
+      "end": 798609854,
+      "start": 798609853,
+      "max": 73,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 68,
+      "min": 68,
+      "end": 798610549,
+      "start": 798610548,
+      "max": 68,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 73,
+      "min": 73,
+      "end": 798611092,
+      "start": 798611091,
+      "max": 73,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 67.88358306884766,
+      "min": 67.88358306884766,
+      "end": 798611447,
+      "start": 798611446,
+      "max": 67.88358306884766,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 66,
+      "min": 66,
+      "end": 798611730,
+      "start": 798611729,
+      "max": 66,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 69,
+      "min": 69,
+      "end": 798612601,
+      "start": 798612600,
+      "max": 69,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 68,
+      "min": 68,
+      "end": 798614920,
+      "start": 798614919,
+      "max": 68,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 69,
+      "min": 69,
+      "end": 798615897,
+      "start": 798615896,
+      "max": 69,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 67,
+      "min": 67,
+      "end": 798616831,
+      "start": 798616830,
+      "max": 67,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 69,
+      "min": 69,
+      "end": 798617847,
+      "start": 798617846,
+      "max": 69,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798618798,
+      "start": 798618797,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798619102,
+      "start": 798619101,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798619991,
+      "start": 798619990,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798620884,
+      "start": 798620883,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798622027,
+      "start": 798622026,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 61.99999999999999,
+      "min": 61.99999999999999,
+      "end": 798622673,
+      "start": 798622672,
+      "max": 61.99999999999999,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798623550,
+      "start": 798623549,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 60,
+      "min": 60,
+      "end": 798624668,
+      "start": 798624667,
+      "max": 60,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 66,
+      "min": 66,
+      "end": 798625387,
+      "start": 798625386,
+      "max": 66,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798626610,
+      "start": 798626609,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 65,
+      "min": 65,
+      "end": 798627706,
+      "start": 798627705,
+      "max": 65,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 67,
+      "min": 67,
+      "end": 798629467,
+      "start": 798629466,
+      "max": 67,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798629815,
+      "start": 798629814,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 70,
+      "min": 70,
+      "end": 798631448,
+      "start": 798631447,
+      "max": 70,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798632500,
+      "start": 798632499,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 72,
+      "min": 72,
+      "end": 798633173,
+      "start": 798633172,
+      "max": 72,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798633536,
+      "start": 798633535,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 65,
+      "min": 65,
+      "end": 798634405,
+      "start": 798634404,
+      "max": 65,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798635240,
+      "start": 798635239,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 70,
+      "min": 70,
+      "end": 798636195,
+      "start": 798636194,
+      "max": 70,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 67,
+      "min": 67,
+      "end": 798637255,
+      "start": 798637254,
+      "max": 67,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 66,
+      "min": 66,
+      "end": 798637651,
+      "start": 798637650,
+      "max": 66,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 68,
+      "min": 68,
+      "end": 798638455,
+      "start": 798638454,
+      "max": 68,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 64,
+      "min": 64,
+      "end": 798639536,
+      "start": 798639535,
+      "max": 64,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 78,
+      "min": 78,
+      "end": 798640800,
+      "start": 798640799,
+      "max": 78,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 57,
+      "min": 57,
+      "end": 798641244,
+      "start": 798641243,
+      "max": 57,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 61,
+      "min": 61,
+      "end": 798641947,
+      "start": 798641946,
+      "max": 61,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 63,
+      "min": 63,
+      "end": 798642714,
+      "start": 798642713,
+      "max": 63,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798643873,
+      "start": 798643872,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798644583,
+      "start": 798644582,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 58,
+      "min": 58,
+      "end": 798645424,
+      "start": 798645423,
+      "max": 58,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798646311,
+      "start": 798646310,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 59,
+      "min": 59,
+      "end": 798647215,
+      "start": 798647214,
+      "max": 59,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 58,
+      "min": 58,
+      "end": 798648112,
+      "start": 798648111,
+      "max": 58,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    },
+    {
+      "unit": "count/min",
+      "metric": "Heart Rate",
+      "avg": 51,
+      "min": 51,
+      "end": 798649014,
+      "start": 798649013,
+      "max": 51,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    }
+  ]
+}

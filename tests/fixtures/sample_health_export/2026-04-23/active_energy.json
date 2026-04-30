@@ -1,0 +1,806 @@
+{
+  "metric": "Active Energy",
+  "date": 798562800,
+  "data": [
+    {
+      "qty": 0.003970521738047613,
+      "end": 798564400,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798564399,
+      "sources": []
+    },
+    {
+      "qty": 0.0009212823180695104,
+      "end": 798565227,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798565226,
+      "sources": []
+    },
+    {
+      "qty": 0.023619000181411033,
+      "end": 798569773,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798569772,
+      "sources": []
+    },
+    {
+      "qty": 0.006506467268582079,
+      "end": 798571553,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798571552,
+      "sources": []
+    },
+    {
+      "qty": 0.0006742370128431097,
+      "end": 798572451,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798572450,
+      "sources": []
+    },
+    {
+      "qty": 0.007772450524153095,
+      "end": 798575197,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798575196,
+      "sources": []
+    },
+    {
+      "qty": 0.0010063399509313731,
+      "end": 798576691,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798576690,
+      "sources": []
+    },
+    {
+      "qty": 0.004464958745041655,
+      "end": 798577745,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798577744,
+      "sources": []
+    },
+    {
+      "qty": 0.020984999874754405,
+      "end": 798578481,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798578480,
+      "sources": []
+    },
+    {
+      "qty": 0.001342470167521925,
+      "end": 798579451,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798579450,
+      "sources": []
+    },
+    {
+      "qty": 0.01998343455261267,
+      "end": 798580145,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798580144,
+      "sources": []
+    },
+    {
+      "qty": 0.0034351131080742068,
+      "end": 798580757,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798580756,
+      "sources": []
+    },
+    {
+      "qty": 0.018746473825137618,
+      "end": 798581379,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798581378,
+      "sources": []
+    },
+    {
+      "qty": 0.004379860075231723,
+      "end": 798582021,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798582020,
+      "sources": []
+    },
+    {
+      "qty": 0.003247129981053366,
+      "end": 798582870,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798582869,
+      "sources": []
+    },
+    {
+      "qty": 0.015664183408497623,
+      "end": 798583502,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798583501,
+      "sources": []
+    },
+    {
+      "qty": 0.0026564408325067674,
+      "end": 798584114,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798584113,
+      "sources": []
+    },
+    {
+      "qty": 0.021533980428700302,
+      "end": 798584727,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798584726,
+      "sources": []
+    },
+    {
+      "qty": 0.0033427899947900412,
+      "end": 798585349,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798585348,
+      "sources": []
+    },
+    {
+      "qty": 0.002885559452904143,
+      "end": 798586001,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798586000,
+      "sources": []
+    },
+    {
+      "qty": 0.019308564882250863,
+      "end": 798586705,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798586704,
+      "sources": []
+    },
+    {
+      "qty": 0.004759218186068278,
+      "end": 798587317,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798587316,
+      "sources": []
+    },
+    {
+      "qty": 0.021726622910747385,
+      "end": 798587930,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798587929,
+      "sources": []
+    },
+    {
+      "qty": 0.004948623552090476,
+      "end": 798588542,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798588541,
+      "sources": []
+    },
+    {
+      "qty": 0.020214155481681904,
+      "end": 798589155,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798589154,
+      "sources": []
+    },
+    {
+      "qty": 0.018649126491958462,
+      "end": 798589798,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798589797,
+      "sources": []
+    },
+    {
+      "qty": 0.003548457132319549,
+      "end": 798590458,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798590457,
+      "sources": []
+    },
+    {
+      "qty": 0.024645696514036357,
+      "end": 798591071,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798591070,
+      "sources": []
+    },
+    {
+      "qty": 0.006823726247595128,
+      "end": 798591683,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798591682,
+      "sources": []
+    },
+    {
+      "qty": 0.03462955125055667,
+      "end": 798592347,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798592346,
+      "sources": []
+    },
+    {
+      "qty": 0.003512639763864496,
+      "end": 798593100,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798593099,
+      "sources": []
+    },
+    {
+      "qty": 0.0038968028904415915,
+      "end": 798593754,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798593753,
+      "sources": []
+    },
+    {
+      "qty": 0.014794543171926605,
+      "end": 798594367,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798594366,
+      "sources": []
+    },
+    {
+      "qty": 0.003893342183337354,
+      "end": 798594979,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798594978,
+      "sources": []
+    },
+    {
+      "qty": 0.014154958740474014,
+      "end": 798595632,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798595631,
+      "sources": []
+    },
+    {
+      "qty": 0.0045993354270147625,
+      "end": 798596244,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798596243,
+      "sources": []
+    },
+    {
+      "qty": 0.004042528889812842,
+      "end": 798596928,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798596927,
+      "sources": []
+    },
+    {
+      "qty": 0.02495169505909393,
+      "end": 798597541,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798597540,
+      "sources": []
+    },
+    {
+      "qty": 0.010555965733267154,
+      "end": 798598153,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798598152,
+      "sources": []
+    },
+    {
+      "qty": 0.005701272246403476,
+      "end": 798598775,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798598774,
+      "sources": []
+    },
+    {
+      "qty": 0.0027577132497486104,
+      "end": 798599387,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798599386,
+      "sources": []
+    },
+    {
+      "qty": 0.014289578863921393,
+      "end": 798600000,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798599999,
+      "sources": []
+    },
+    {
+      "qty": 0.015289297603008104,
+      "end": 798600703,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798600702,
+      "sources": []
+    },
+    {
+      "qty": 0.004170170038704207,
+      "end": 798601334,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798601333,
+      "sources": []
+    },
+    {
+      "qty": 0.01668234614453163,
+      "end": 798601998,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798601997,
+      "sources": []
+    },
+    {
+      "qty": 0.005537735584862806,
+      "end": 798602628,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798602627,
+      "sources": []
+    },
+    {
+      "qty": 0.027614058102769935,
+      "end": 798603241,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798603240,
+      "sources": []
+    },
+    {
+      "qty": 0.01775985139405233,
+      "end": 798603854,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798603853,
+      "sources": []
+    },
+    {
+      "qty": 0.003704076666659507,
+      "end": 798604558,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798604557,
+      "sources": []
+    },
+    {
+      "qty": 0.02001133266408568,
+      "end": 798605242,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798605241,
+      "sources": []
+    },
+    {
+      "qty": 0.006118937577225024,
+      "end": 798605863,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798605862,
+      "sources": []
+    },
+    {
+      "qty": 0.018660593679084715,
+      "end": 798606517,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798606516,
+      "sources": []
+    },
+    {
+      "qty": 0.004015588221622068,
+      "end": 798607170,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798607169,
+      "sources": []
+    },
+    {
+      "qty": 0.003899811382105817,
+      "end": 798607783,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798607782,
+      "sources": []
+    },
+    {
+      "qty": 0.019377946782686215,
+      "end": 798608396,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798608395,
+      "sources": []
+    },
+    {
+      "qty": 0.004983854771457467,
+      "end": 798609008,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798609007,
+      "sources": []
+    },
+    {
+      "qty": 0.012932756179848648,
+      "end": 798609621,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798609620,
+      "sources": []
+    },
+    {
+      "qty": 0.0037753653041919773,
+      "end": 798610243,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798610242,
+      "sources": []
+    },
+    {
+      "qty": 0.005838028009007138,
+      "end": 798610927,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798610926,
+      "sources": []
+    },
+    {
+      "qty": 0.015528855586552235,
+      "end": 798612659,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798612658,
+      "sources": []
+    },
+    {
+      "qty": 0.004744411192585063,
+      "end": 798614926,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798614925,
+      "sources": []
+    },
+    {
+      "qty": 0.01143745840115716,
+      "end": 798615671,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798615670,
+      "sources": []
+    },
+    {
+      "qty": 0.005374938890245382,
+      "end": 798616303,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798616302,
+      "sources": []
+    },
+    {
+      "qty": 0.013838857414320298,
+      "end": 798616956,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798616955,
+      "sources": []
+    },
+    {
+      "qty": 0.0166322975263056,
+      "end": 798617569,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798617568,
+      "sources": []
+    },
+    {
+      "qty": 0.010414504108884733,
+      "end": 798618240,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798618239,
+      "sources": []
+    },
+    {
+      "qty": 0.01969524199430273,
+      "end": 798619291,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798619290,
+      "sources": []
+    },
+    {
+      "qty": 0.004769161028508026,
+      "end": 798619933,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798619932,
+      "sources": []
+    },
+    {
+      "qty": 0.019347154789946145,
+      "end": 798620586,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798620585,
+      "sources": []
+    },
+    {
+      "qty": 0.01126676602311748,
+      "end": 798621219,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798621218,
+      "sources": []
+    },
+    {
+      "qty": 0.002822596111327402,
+      "end": 798621871,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798621870,
+      "sources": []
+    },
+    {
+      "qty": 0.017457083017501034,
+      "end": 798622484,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798622483,
+      "sources": []
+    },
+    {
+      "qty": 0.004829581134221317,
+      "end": 798623147,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798623146,
+      "sources": []
+    },
+    {
+      "qty": 0.016029622594899148,
+      "end": 798623760,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798623759,
+      "sources": []
+    },
+    {
+      "qty": 0.0055001175165192385,
+      "end": 798624392,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798624391,
+      "sources": []
+    },
+    {
+      "qty": 0.005052560774863773,
+      "end": 798625005,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798625004,
+      "sources": []
+    },
+    {
+      "qty": 0.019069839926102183,
+      "end": 798625627,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798625626,
+      "sources": []
+    },
+    {
+      "qty": 0.0060079007936788545,
+      "end": 798626239,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798626238,
+      "sources": []
+    },
+    {
+      "qty": 0.008816747050344523,
+      "end": 798626872,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798626871,
+      "sources": []
+    },
+    {
+      "qty": 0.005789767112697741,
+      "end": 798627484,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798627483,
+      "sources": []
+    },
+    {
+      "qty": 0.06169372152595199,
+      "end": 798629535,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798629534,
+      "sources": []
+    },
+    {
+      "qty": 0.014316374115397377,
+      "end": 798630148,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798630147,
+      "sources": []
+    },
+    {
+      "qty": 0.0073603169111126025,
+      "end": 798630760,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798630759,
+      "sources": []
+    },
+    {
+      "qty": 0.02361945304066245,
+      "end": 798631373,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798631372,
+      "sources": []
+    },
+    {
+      "qty": 0.004155086102790455,
+      "end": 798632210,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798632209,
+      "sources": []
+    },
+    {
+      "qty": 0.004713685500345697,
+      "end": 798633079,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798633078,
+      "sources": []
+    },
+    {
+      "qty": 0.018832354762545942,
+      "end": 798634122,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798634121,
+      "sources": []
+    },
+    {
+      "qty": 0.004581913769156454,
+      "end": 798634734,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798634733,
+      "sources": []
+    },
+    {
+      "qty": 0.02010143396053937,
+      "end": 798635449,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798635448,
+      "sources": []
+    },
+    {
+      "qty": 0.007956992490250505,
+      "end": 798636061,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798636060,
+      "sources": []
+    },
+    {
+      "qty": 0.02150547880966651,
+      "end": 798636684,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798636683,
+      "sources": []
+    },
+    {
+      "qty": 0.004123020243007314,
+      "end": 798637449,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798637448,
+      "sources": []
+    },
+    {
+      "qty": 0.007141976630285052,
+      "end": 798638062,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798638061,
+      "sources": []
+    },
+    {
+      "qty": 0.015685184791086593,
+      "end": 798638675,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798638674,
+      "sources": []
+    },
+    {
+      "qty": 0.0016747257847354313,
+      "end": 798639307,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798639306,
+      "sources": []
+    },
+    {
+      "qty": 0.007513674069604872,
+      "end": 798639920,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798639919,
+      "sources": []
+    },
+    {
+      "qty": 0.010068662845474505,
+      "end": 798640532,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798640531,
+      "sources": []
+    },
+    {
+      "qty": 0.008536628865302065,
+      "end": 798641145,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798641144,
+      "sources": []
+    },
+    {
+      "qty": 0.00912496723648883,
+      "end": 798641758,
+      "unit": "kJ",
+      "metric": "Active Energy",
+      "start": 798641757,
+      "sources": []
+    },
+    {
+      "qty": 0.002956383603975216,
+      "end": 798643548,
+      "unit": "kcal",
+      "metric": "Active Energy",
+      "start": 798643547,
+      "sources": []
+    }
+  ]
+}

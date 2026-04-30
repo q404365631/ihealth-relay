@@ -1,0 +1,806 @@
+{
+  "date": 798562800,
+  "metric": "Step Count",
+  "data": [
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798565520,
+      "end": 798565521,
+      "qty": 0.21296413373928755,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798565586,
+      "end": 798565587,
+      "qty": 0.21296413373928758,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798565653,
+      "end": 798565654,
+      "qty": 0.2129641337392876,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798565719,
+      "end": 798565720,
+      "qty": 0.2129641337392876,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798565786,
+      "end": 798565787,
+      "qty": 0.2129641337392878,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798578463,
+      "end": 798578464,
+      "qty": 0.98354287471434,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798580213,
+      "end": 798580214,
+      "qty": 0.20038441671731033,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798580280,
+      "end": 798580281,
+      "qty": 0.200384416717311,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798580346,
+      "end": 798580347,
+      "qty": 0.20038441671731108,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798589050,
+      "end": 798589051,
+      "qty": 0.30452648517198816,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798589116,
+      "end": 798589117,
+      "qty": 0.28315440409005616,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798591873,
+      "end": 798591874,
+      "qty": 0.22097182135891247,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798591939,
+      "end": 798591940,
+      "qty": 0.22097182135891197,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798592006,
+      "end": 798592007,
+      "qty": 0.2209718213589112,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798592072,
+      "end": 798592073,
+      "qty": 0.2209718213589111,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798592139,
+      "end": 798592140,
+      "qty": 0.22097182135891202,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798592205,
+      "end": 798592206,
+      "qty": 0.220971821358912,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798592272,
+      "end": 798592273,
+      "qty": 0.220971821358912,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798594170,
+      "end": 798594171,
+      "qty": 0.18005948851936543,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798594236,
+      "end": 798594237,
+      "qty": 0.18005948851936554,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798596184,
+      "end": 798596185,
+      "qty": 1.1491115672307541,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798596282,
+      "end": 798596283,
+      "qty": 0.648877908413805,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798598440,
+      "end": 798598441,
+      "qty": 0.47583183264479484,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798598506,
+      "end": 798598507,
+      "qty": 0.4758318326447935,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798598573,
+      "end": 798598574,
+      "qty": 0.4758318326447937,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798610793,
+      "end": 798610794,
+      "qty": 0.21801807477694454,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798610860,
+      "end": 798610861,
+      "qty": 0.21801807477694357,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798610926,
+      "end": 798610927,
+      "qty": 0.21801807477694268,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798610993,
+      "end": 798610994,
+      "qty": 0.2180180747769427,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798611059,
+      "end": 798611060,
+      "qty": 0.2180180747769427,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798611126,
+      "end": 798611127,
+      "qty": 0.2180180747769427,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798611192,
+      "end": 798611193,
+      "qty": 0.2180180747769428,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798618629,
+      "end": 798618630,
+      "qty": 0.06655155206564684,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798618696,
+      "end": 798618697,
+      "qty": 0.06655155206564681,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798618762,
+      "end": 798618763,
+      "qty": 0.06655155206564678,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798618829,
+      "end": 798618830,
+      "qty": 0.06655155206564674,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798618895,
+      "end": 798618896,
+      "qty": 0.06655155206564668,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798618962,
+      "end": 798618963,
+      "qty": 0.0665515520656466,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798619028,
+      "end": 798619029,
+      "qty": 0.06655155206564643,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798619095,
+      "end": 798619096,
+      "qty": 0.06655155206564622,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798619161,
+      "end": 798619162,
+      "qty": 0.06655155206564635,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798619309,
+      "end": 798619310,
+      "qty": 0.9618553821137863,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798624824,
+      "end": 798624825,
+      "qty": 0.44011288373485685,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798626504,
+      "end": 798626505,
+      "qty": 0.6855380764074999,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798627360,
+      "end": 798627361,
+      "qty": 0.09583759264573484,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798627426,
+      "end": 798627427,
+      "qty": 0.09583759264573509,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630168,
+      "end": 798630169,
+      "qty": 0.21722166045370214,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630234,
+      "end": 798630235,
+      "qty": 0.21722166045370206,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630301,
+      "end": 798630302,
+      "qty": 0.21722166045370195,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630367,
+      "end": 798630368,
+      "qty": 0.21722166045370184,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630434,
+      "end": 798630435,
+      "qty": 0.21722166045370164,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630500,
+      "end": 798630501,
+      "qty": 0.21722166045370137,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630567,
+      "end": 798630568,
+      "qty": 0.2172216604537009,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630633,
+      "end": 798630634,
+      "qty": 0.21722166045370067,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630700,
+      "end": 798630701,
+      "qty": 0.21722166045370098,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630766,
+      "end": 798630767,
+      "qty": 0.11588115614867966,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630832,
+      "end": 798630833,
+      "qty": 0.11588115614867972,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798630942,
+      "end": 798630943,
+      "qty": 0.11583316422307767,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631008,
+      "end": 798631009,
+      "qty": 0.11583316422307809,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631075,
+      "end": 798631076,
+      "qty": 0.11583316422307809,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631141,
+      "end": 798631142,
+      "qty": 0.11583316422307807,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631702,
+      "end": 798631703,
+      "qty": 0.08279680427407145,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631768,
+      "end": 798631769,
+      "qty": 0.08279680427407142,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631835,
+      "end": 798631836,
+      "qty": 0.08279680427407143,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631901,
+      "end": 798631902,
+      "qty": 0.08279680427407145,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798631968,
+      "end": 798631969,
+      "qty": 0.08279680427407145,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798632034,
+      "end": 798632035,
+      "qty": 0.08279680427407145,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798632101,
+      "end": 798632102,
+      "qty": 0.08279680427407145,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798632167,
+      "end": 798632168,
+      "qty": 0.08279680427407146,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798632233,
+      "end": 798632234,
+      "qty": 0.08279680427407154,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798633812,
+      "end": 798633813,
+      "qty": 0.08445887059515815,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798633878,
+      "end": 798633879,
+      "qty": 0.08445887059515833,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798633945,
+      "end": 798633946,
+      "qty": 0.08445887059515834,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798634011,
+      "end": 798634012,
+      "qty": 0.08445887059515833,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798634078,
+      "end": 798634079,
+      "qty": 0.08445887059515833,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798634144,
+      "end": 798634145,
+      "qty": 3.893171288652576,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798636320,
+      "end": 798636321,
+      "qty": 0.0837230613202881,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798636386,
+      "end": 798636387,
+      "qty": 0.08372306132028796,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798636453,
+      "end": 798636454,
+      "qty": 0.08372306132028795,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798637695,
+      "end": 798637696,
+      "qty": 1.8385268776470898,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798637820,
+      "end": 798637821,
+      "qty": 0.33706120778878557,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798637886,
+      "end": 798637887,
+      "qty": 0.3370612077887855,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798637952,
+      "end": 798637953,
+      "qty": 0.33706120778878557,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798638019,
+      "end": 798638020,
+      "qty": 0.3370612077887856,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798638085,
+      "end": 798638086,
+      "qty": 0.33706120778878573,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640348,
+      "end": 798640349,
+      "qty": 0.07335580908992222,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640414,
+      "end": 798640415,
+      "qty": 0.30243550736422775,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640481,
+      "end": 798640482,
+      "qty": 0.3024355073642264,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640547,
+      "end": 798640548,
+      "qty": 0.30243550736422553,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640614,
+      "end": 798640615,
+      "qty": 0.3024355073642261,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640680,
+      "end": 798640681,
+      "qty": 0.302435507364227,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640747,
+      "end": 798640748,
+      "qty": 0.302435507364228,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640813,
+      "end": 798640814,
+      "qty": 0.3024355073642271,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640880,
+      "end": 798640881,
+      "qty": 0.30243550736422653,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798640946,
+      "end": 798640947,
+      "qty": 0.30243550736422686,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798641012,
+      "end": 798641013,
+      "qty": 0.1374091922971877,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798641079,
+      "end": 798641080,
+      "qty": 0.13740919229718784,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798641145,
+      "end": 798641146,
+      "qty": 0.13740919229718784,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798641212,
+      "end": 798641213,
+      "qty": 0.13740919229718784,
+      "unit": "count"
+    },
+    {
+      "metric": "Step Count",
+      "sources": [],
+      "start": 798641278,
+      "end": 798641279,
+      "qty": 0.13740919229718784,
+      "unit": "count"
+    }
+  ]
+}

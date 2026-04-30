@@ -1,0 +1,74 @@
+# config.toml — ihealth-relay ローカル設定 (Phase 1 B1 / Issue #18)
+#
+# 使い方:
+#   1. このファイルを `cp config.example.toml config.toml` でコピー
+#   2. 必要に応じて Notion DB のプロパティ名を編集
+#   3. `config.toml` は .gitignore 対象 (個人設定なので git 管理外)
+#
+# 既定の Notion プロパティ名 (Phase 1 B2 で 2026-04-29 に英語化):
+#   - "Date" / "Step Count" / "Distance (km)" / "Active Energy (kcal)" / ...
+#   - 詳細は src/ihealth/publishers/notion.py の PROPERTY_MAP を参照
+#
+# 不在時の挙動: 内部 PROPERTY_MAP (英語名) がそのまま使われる. OSS で
+# Notion DB を新しく用意するなら本ファイル不要 (DB 列名を英語既定に揃える).
+#
+# 別名の Notion DB (日本語名) を使い続ける場合は本ファイルをコピーして
+# `config.toml` として配置することで日本語名に override される.
+
+# ----------------------------------------------------------------
+# 日付プロパティ (Phase 1 B2 で導入)
+# ----------------------------------------------------------------
+# `find_page_by_date` が Notion DB の filter キーに使う列名.
+# 既定値は "Date". 別名の Notion DB なら "日付" に override する.
+
+[publishers.notion]
+date_property = "日付"
+
+# ----------------------------------------------------------------
+# Notion DB のプロパティ名マッピング (DailyHealthData フィールド → Notion 列名)
+# ----------------------------------------------------------------
+# 全 13 フィールドを 別名の Notion DB 互換の日本語名で記載.
+# 一部だけ override したい場合は、不要なセクションを削除すれば
+# そのフィールドだけ既定値 (英語) が使われる.
+
+[publishers.notion.fields.step_count]
+property = "歩数 (歩)"
+
+[publishers.notion.fields.distance_km]
+property = "移動距離 (km)"
+
+[publishers.notion.fields.active_energy_kcal]
+property = "消費カロリー (kcal)"
+
+[publishers.notion.fields.exercise_intensity_score]
+property = "運動強度スコア"
+
+[publishers.notion.fields.heart_rate_avg]
+property = "平均心拍数 (bpm)"
+
+[publishers.notion.fields.heart_rate_max]
+property = "最大心拍数 (bpm)"
+
+[publishers.notion.fields.heart_rate_resting]
+property = "安静時心拍数 (bpm)"
+
+[publishers.notion.fields.oxygen_saturation]
+property = "酸素飽和度 (%)"
+
+[publishers.notion.fields.sleep_hours]
+property = "睡眠時間 (分)"
+
+[publishers.notion.fields.nap_hours]
+property = "昼寝時間"
+
+[publishers.notion.fields.mindful_sessions]
+property = "瞑想回数 (回)"
+
+[publishers.notion.fields.mindful_minutes]
+property = "瞑想時間 (分)"
+
+[publishers.notion.fields.body_mass_kg]
+property = "体重 (kg)"
+
+[publishers.notion.fields.body_fat_percentage]
+property = "体脂肪率 (%)"

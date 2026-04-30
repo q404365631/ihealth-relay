@@ -1,0 +1,19 @@
+{
+  "date": 798562800,
+  "metric": "Resting Heart Rate",
+  "data": [
+    {
+      "unit": "count/min",
+      "end": 798621390.6244639,
+      "metric": "Resting Heart Rate",
+      "qty": 60,
+      "start": 798562836.742299,
+      "sources": [
+        {
+          "identifier": "com.apple.health.00000000-0000-0000-0000-000000000000",
+          "name": "Sample Watch"
+        }
+      ]
+    }
+  ]
+}

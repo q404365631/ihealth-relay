@@ -1,0 +1,2 @@
+# このディレクトリは Health Auto Export から取り込んだ JSON のアーカイブ先。
+# 実ファイルは .gitignore で除外されるため、空のままこの .gitkeep のみを git 管理下に置く。

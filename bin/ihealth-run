@@ -1,0 +1,45 @@
+#!/bin/bash
+# ihealth-relay 手動実行ラッパー。launchd と同じコマンドラインで呼び出し、
+# 手動検証 / cron 運用時のエントリポイントを 1 つに統一する。
+#
+# 使い方:
+#   ./bin/ihealth-run                        # 昨日分を処理
+#   ./bin/ihealth-run --date 2026-04-22      # 指定日
+#   ./bin/ihealth-run --dry-run --verbose    # 実送信せず properties ログ出力
+#
+# 終了コードは `python3 -m ihealth` と同一 (__main__.py のドキュメント参照)。
+set -euo pipefail
+
+# launchd から起動された際の PATH は `/usr/bin:/bin:/usr/sbin:/sbin` がデフォルトだが、
+# 将来 plist 側の EnvironmentVariables 変更や手動シェルからの呼び出しで PATH が
+# 想定外になっても dirname / readlink / cd が見つからないことが無いよう、ここで
+# 固定する。/usr/local/bin / Homebrew は混ぜない: 必要なものは全て macOS 標準
+# パス配下にある。
+PATH="/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH
+
+# symlink 経由で叩かれても実体の位置を起点にする。
+# BSD readlink (macOS 12.2 以下) に "-f" がないため、自前でループ解決。
+SRC="${BASH_SOURCE[0]}"
+while [ -L "$SRC" ]; do
+    SRC_DIR="$(cd -P "$(dirname "$SRC")" && pwd)"
+    SRC="$(readlink "$SRC")"
+    # 相対 symlink の場合はリンクのあったディレクトリから結合
+    case "$SRC" in
+        /*) ;;
+        *)  SRC="$SRC_DIR/$SRC" ;;
+    esac
+done
+SCRIPT_DIR="$(cd -P "$(dirname "$SRC")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+# cd しておくと、`./bin/ihealth-run` をどこから叩いても .env が読めるし、
+# data/health/ アーカイブもプロジェクトルートに固定される
+cd "$PROJECT_ROOT"
+
+export PYTHONPATH="src"
+# LANG を明示しておく (launchd 経由では環境変数がほぼ空になり、日本語ログが
+# mojibake するケースがある)
+export LANG="${LANG:-en_US.UTF-8}"
+
+exec /usr/bin/python3 -m ihealth "$@"
